@@ -1,0 +1,9 @@
+<suite name = "Swag Lab test">
+    <test name = "E2E testing">
+        <classes>
+            <class name ="test.tests.LoginTest"/>
+            <class name="test.tests.DashboardTest"/>
+            <class name="test.tests.CartTest"/>
+        </classes>
+    </test>
+</suite>
